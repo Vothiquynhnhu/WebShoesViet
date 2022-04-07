@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nhuvo\\Desktop\\WebShoes\\WebShoes\\WebShoes.csproj": {}
+    "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\WebShoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nhuvo\\Desktop\\WebShoes\\WebShoes\\WebShoes.csproj": {
+    "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\WebShoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nhuvo\\Desktop\\WebShoes\\WebShoes\\WebShoes.csproj",
+        "projectUniqueName": "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\WebShoes.csproj",
         "projectName": "WebShoes",
-        "projectPath": "C:\\Users\\Nhuvo\\Desktop\\WebShoes\\WebShoes\\WebShoes.csproj",
+        "projectPath": "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\WebShoes.csproj",
         "packagesPath": "C:\\Users\\Nhuvo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nhuvo\\Desktop\\WebShoes\\WebShoes\\obj\\",
+        "outputPath": "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
