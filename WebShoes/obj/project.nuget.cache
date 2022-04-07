@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNX9YWNwCYSetzLtTogFnfCmW/G77o7FU7rG/JB84m68UiF50nMTkOOOwe0Rw/dQWfkP42GqgMYECdRCJ9oC6Q==",
+  "dgSpecHash": "ZSrTip0bPgswxQlQ4Rxitk9EM8OYRkvL0GQ/K+Jb8aM6iHJ3TYvA6Pb3Xidcfvu3FuI1nwdVEHGiFk63Swb4vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nhuvo\\Desktop\\New\\WebShoes\\WebShoes.csproj",
+  "projectFilePath": "C:\\Users\\Nhuvo\\Desktop\\Try\\WebShoes\\WebShoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nhuvo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.14\\microsoft.aspnetcore.cryptography.internal.5.0.14.nupkg.sha512",
